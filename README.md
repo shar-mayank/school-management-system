@@ -1,4 +1,4 @@
 # school-management-system
-This is a project on school management system, it is made using python and mysql. It can be used to manage activites like storing data of a student or staff, searching a particular student's or staff's data, removing student or staff record from database and print the details of all students and staff. It is a menu driven program and it runs until the user exits.It is password protected so that only the person handling the database can make changes.
+This project is a School Management System developed using Python and MySQL. It serves as a tool for managing various activities, including storing student and staff data, searching for specific student or staff information, removing student or staff records from the database, and printing details of all students and staff. The program is menu-driven and continues to run until the user chooses to exit. It also features password protection to ensure that only authorized personnel can make changes to the database.
 
 install "pip install mysql-connector-python" first
